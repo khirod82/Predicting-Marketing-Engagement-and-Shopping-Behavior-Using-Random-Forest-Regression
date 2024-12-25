@@ -1,0 +1,3 @@
+The project employs machine learning, particularly a Random Forest Regressor, to analyze and predict shopping behavior based on various engagement metrics such as Likes, Shares, Comments, Clicks, and Time Spent on the platform. After processing the dataset to handle missing values, encoding categorical variables, and scaling numerical features, the model was trained and evaluated, achieving a Mean Squared Error (MSE) of approximately 0.0504.
+
+This low MSE indicates that the model performs well in predicting shopping behavior, making it a valuable tool for businesses aiming to understand and optimize customer engagement strategies to enhance conversions and revenue.
